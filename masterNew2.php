@@ -1,4 +1,0 @@
-<?php
-/* 
- * commit masterNew2
- */
